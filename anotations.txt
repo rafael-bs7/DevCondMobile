@@ -1,0 +1,18 @@
+ Aula 3 - configuração do projeto
+- reactnavigation.org
+--- npm install @react-navigation/native
+---npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+--- copiando a linha de código :import 'react-native-gesture-handler' e colocou no index
+--- instalação do stack:
+
+Asyncstorage
+-- https://react-native-async-storage.github.io/async-storage/
+
+Styled components
+npm install @types/styled-components-react-native
+
+npm install --save react-native-calendar-picker
+npm install --save moment
+npm install react-native-date-picker --save
+npm install react-native-image-picker
+npm install --save react-native-vector-icons
